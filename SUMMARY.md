@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Definiciones](chapter1.md)
+* [Definiciones](definiones.md)
 * [Puestos de Responsabilidad](puestos_de_responsabilidad.md)
 
