@@ -27,3 +27,9 @@ Se consultará esta información con los antiguos miembros de RPC.
 * Se propone realizar una reunión en la que cada grupo expondrá sus necesitades / peticiones en relación a subvenciones cuando sea época de solicitarlas
 * Se propone pedir una subvención para el mantenimiento de la impresora 3D
 * Se propone que tras dedicir qué peticiones se tramitarán como solicitud, sea cada grupo el que redacte dichas solicitudes (con opción a quedar todos juntos a rellenarlas)
+
+## Imagen de ASROB
+
+### Wiki
+
+* Se propone una limpieza de la wiki para eliminar elementos obsoletos
