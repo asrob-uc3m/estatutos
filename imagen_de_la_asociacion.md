@@ -2,4 +2,4 @@
 
 ## Wiki
 
-
+* Sólo pueden aparecer en portada Grupos de Trabajo Activos
