@@ -1,4 +1,4 @@
-My Awesome Book
+Estatutos de ASROB
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Este GitBook contiene los estatutos de ASROB, decicidos y aprobados por los miembros de ASROB en la reunión del 24F.
