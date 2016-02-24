@@ -29,7 +29,7 @@
 ## Responsable(s) de Redes Sociales
 
 * Encargado(s) de gestionar las Redes Sociales y de asegurarse de que la asociación tiene visibilidad y de que se publican cosas relevantes.
-* Es responsable de mantener la buena imagen de la asociación y de fomentar la participación de estudiantes en la asociación.
+* Es responsable de mantener la buena imagen de la asociación y de fomentar la participación de estudiantes en la asociación. En este sentido actúa como **moderador**.
 
 ## Responsable de Grupo de Trabajo
 
