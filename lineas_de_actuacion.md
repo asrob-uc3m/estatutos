@@ -33,3 +33,28 @@ Se consultará esta información con los antiguos miembros de RPC.
 ### Wiki
 
 * Se propone una limpieza de la wiki para eliminar elementos obsoletos
+* Se crearán las siguientes páginas nuevas:
+    *  **Antiguos miembros**: contiente a todas aquellas personas que hayan sido miembros de ASROB y en la actualidad no sean miembros activos
+    *  **Antiguos proyectos**: contiene proyectos de ASROB que ya no son activos o han terminado
+    *  **Hall of Fame**: contiene al presidente de honor y a miembros destacados, como los miembros fundadores
+* Se propone también dar más visibilidad a los tutoriales, que son joyas escondidas en nuestra wiki.
+
+### Redes Sociales
+
+* Se propone llevar una línea más distendida y con proyectos más cercanos a los estudiantes
+* Se propone comunicar el trabajo de cada grupo de trabajo en redes sociales para dar más visibilidad
+
+### Web
+
+* Se propone la creación de una página web *single-page* que sirva de portada vistosa a los distintos proyectos de la asociación
+* Ejemplos:
+    * [Plantilla SinglePaged](http://t413.com/SinglePaged/)
+    * [Web UC3Music](http://uc3music.github.io/)
+* Se propone a David Estévez como responsable de su creación
+
+### IEEE Student Branch
+
+* Se propone evaluar objetivamente los beneficios que aporta a ASROB
+* Se propone eliminar todas las referencias a la IEEE Student Branch del banner de la wiki de ASROB
+
+### RoboKode 2016
