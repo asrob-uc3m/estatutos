@@ -76,3 +76,4 @@ David Estévez se pondrá en contacto con Carlos García Saura para organizar un
 * Se propone la realización de camisetas ASROB
 * Se propone llevar a cabo talleres de iniciación a la robótica / cacharreo para los novatos que se incorporen tras la feria de asociaciones.
 * Se propone la creación de una "Hermandad de Asociaciones" para colaboraciones y mayor visibilidad.
+* Se propone un modelo de "charla + trabajo en grupo" para las reuniones de trabajo, a adoptar voluntariamente por cada grupo
