@@ -3,4 +3,4 @@
 ## Wiki
 
 * Sólo pueden aparecer en portada Grupos de Trabajo Activos
-* [Link](asrob.uc3m.es)
+* [Link](http://asrob.uc3m.es/index.php/Main_Page)
