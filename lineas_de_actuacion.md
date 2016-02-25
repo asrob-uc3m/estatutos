@@ -57,4 +57,22 @@ Se consultará esta información con los antiguos miembros de RPC.
 * Se propone evaluar objetivamente los beneficios que aporta a ASROB
 * Se propone eliminar todas las referencias a la IEEE Student Branch del banner de la wiki de ASROB
 
-### RoboKode 2016
+## RoboKode 2016
+
+* Se propone organizar el RoboKode 2016
+* Se propone evaluar la organización conjunta con otras asociaciones
+* Se propone un tema más amplio, el hardware y el CAD, como complemento al T3chfest
+
+
+Se llevará a cabo una reunión para comenzar los preparativos y asignar roles organizativos.
+
+## Contactos Externos
+
+* Se propone realizar encuentros con otras asociaciones de otras universidades para fomentar el intercambio de ideas y experiencias y darnos a conocer
+
+David Estévez se pondrá en contacto con Carlos García Saura para organizar un encuentro con el [Club de roboocia-Mecatrónica de la UAM](http://crm-uam.github.io/) en ASROB.
+
+## Otras ideas
+* Se propone la realización de camisetas ASROB
+* Se propone llevar a cabo talleres de iniciación a la robótica / cacharreo para los novatos que se incorporen tras la feria de asociaciones.
+* Se propone la creación de una "Hermandad de Asociaciones" para colaboraciones y mayor visibilidad.
