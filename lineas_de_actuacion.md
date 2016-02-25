@@ -37,12 +37,19 @@ Se consultará esta información con los antiguos miembros de RPC.
     *  **Antiguos miembros**: contiente a todas aquellas personas que hayan sido miembros de ASROB y en la actualidad no sean miembros activos
     *  **Antiguos proyectos**: contiene proyectos de ASROB que ya no son activos o han terminado
     *  **Hall of Fame**: contiene al presidente de honor y a miembros destacados, como los miembros fundadores
-* Se propone también dar más visibilidad a los tutoriales, que son joyas escondidas en nuestra wiki.
+* Se propone también dar más visibilidad a los tutoriales, que son joyas escondidas en nuestra wiki
+* Se propone limitar los usuarios de la wiki a miembros activos de la asociación
 
 ### Redes Sociales
 
 * Se propone llevar una línea más distendida y con proyectos más cercanos a los estudiantes
 * Se propone comunicar el trabajo de cada grupo de trabajo en redes sociales para dar más visibilidad
+
+## Comunicación interna (email)
+
+* Se propone redirigir los mensajes de la cuenta de la asociación a la lista de la junta ASROB por motivos de privacidad. Esta pasará a llamarse "miembros-activos-ASROB" y estará limitada a miembros activos. Cualquier miembro activo puede solicitar su inclusión en la misma
+
+* La lista general de ASROB seguirá siendo abierta y se usará para comunicación de información no privada de caracter divulgativo
 
 ### Web
 
