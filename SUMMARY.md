@@ -4,5 +4,4 @@
 * [Definiciones](chapter1.md)
 * [Puestos de Responsabilidad](puestos_de_responsabilidad.md)
 * [Imagen de la Asociación](imagen_de_la_asociacion.md)
-* [Lineas de actuación](lineas_de_actuacion.md)
 
