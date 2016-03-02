@@ -6,12 +6,6 @@
 * Se revisará la composición de la Junta Directiva de forma anual
 * Los representantes de cada grupo se consideran vocales de la Junta Directiva, y deberán estar presentes en las reuniones internas como representación de sus compañeros de grupo de trabajo.
 
-### Junta Actual
-**Presidente:** Juan González Víctores
-
-**Secretario:** David Estévez Fernández
-
-**Tesorero:** Rodrigo Mompo
 
 ### Roles de cada puesto
 **Presidente**: Figurar como presidente en subvenciones, asistencia a reuniones en representación de la asociación.
