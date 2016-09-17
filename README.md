@@ -8,4 +8,4 @@ Las diapositivas usadas en dicha reunión se pueden encontrar [aquí](https://do
 
 
 * Read me at: [GitBook](https://www.gitbook.com/book/asrob-uc3m/estatutos/)
-* Hosted at: [Gihub](https://github.com/asrob-uc3m/estatutos)
+* Hosted at: [GitHub](https://github.com/asrob-uc3m/estatutos)
