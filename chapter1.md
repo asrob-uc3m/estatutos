@@ -13,7 +13,7 @@ Grupo que cumple las siguientes condiciones:
 
 Para tener derecho a *publicitarse en la página principal de ASROB* es condición necesaria y suficiente ser un *grupo de trabajo activo*. El resto de grupos aparecerán en una página de *Proyectos Antiguos / Descontinuados*.
 
-En la actualidad, para solicitar la Creación de un Grupo Activo, utilizamos [este Google Form](https://docs.google.com/forms/d/e/1FAIpQLScb7ZPC_JNr5i1fUaEReBnLpdm6mFVr6U894i3KtSFG99WedA/viewform?c=0&w=1).
+En la actualidad, para solicitar la Creación de un Grupo Activo, utilizamos [este Google Form](http://goo.gl/forms/movrqVPe6k).
 
 ## Miembro Activo
 Miembro que se reúne o colabora asiduamente con algún *grupo de trabajo activo*.
