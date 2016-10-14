@@ -8,7 +8,7 @@
 
 
 ### Roles de cada puesto
-**Presidente**: Figurar como presidente en subvenciones, asistencia a reuniones en representación de la asociación.
+**Presidente**: Figurar como presidente en subvenciones, asistencia a reuniones en representación de la asociación, firma de reconocimiento de créditos.
 
 **Secretario**: Figurar como secretario en subvenciones, asistencia a reuniones en representación de la asociación, control del inventario.
 
