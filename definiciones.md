@@ -11,7 +11,7 @@ Grupo que cumple las siguientes condiciones:
 6. El proyecto que se desarrolle en las reuniones/talleres/charlas, tiene que ser sin ánimo de lucro y totalmente libre, entendiendo por esto, que no es necesario comprar material específico de empresa o pagar nada a una empresa en particular (como software necesario, por ejemplo), además de que el código y los diseños de las piezas que sean necesarias sean libres, en la medida de lo posible (independientemente de que una empresa además decida comercializar el kit o el proyecto por otra parte)
 
 
-Para tener derecho a *publicitarse en la página principal de ASROB* es condición necesaria y suficiente ser un *grupo de trabajo activo*. El resto de grupos aparecerán en una página de *Proyectos Antiguos / Descontinuados*.
+Para tener derecho a *pedir subvenciones en nombre de ASROB* y a *publicitarse en la página principal de ASROB* es condición necesaria y suficiente ser un *grupo de trabajo activo*. El resto de grupos aparecerán en una página de *Proyectos Antiguos / Descontinuados*.
 
 En la actualidad, para solicitar la Creación de un Grupo Activo, utilizamos [este Google Form](http://goo.gl/forms/movrqVPe6k).
 
