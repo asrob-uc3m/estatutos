@@ -15,11 +15,11 @@ Actualmente existen 4 llaves distintas (de las cuales existen varias copias):
 
 ### Llave de la puerta de la nave
 
-(por determinar)
+Cada grupo de trabajo activo puede tener hasta 2 copias de la misma. La página de cada grupo dentro de la web se actualiza para documentar quién tiene llave(s) en cada momento.
 
 ### Llave del armario 1
 
-Cada grupo de trabajo activo puede tener hasta 2 copias de la misma. 
+Cada grupo de trabajo activo puede tener hasta 2 copias de la misma. La página de cada grupo dentro de la web se actualiza para documentar quién tiene llave(s) en cada momento.
 
 ### Llave del armario 2
 
