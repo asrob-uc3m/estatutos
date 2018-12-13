@@ -6,5 +6,5 @@ El Presidente convocará una "Comisión de Limpieza" por año, entre los meses d
 <a id="1">[1]</a> En caso de no haber consenso sobre algún material en particular, se elevará a [votación a nivel organización](metodo_de_votacion.md) a posteriori.
 
 ## Cómo documentar el material existente
-1. El material común:
+1. El material común: Por mantener una cierta trazabilidad del material, se exige que cualquier material común `prestado` o `desaparecido` se notifique en [asrob-uc3m/actas/issues](https://github.com/asrob-uc3m/actas/issues) con su etiqueta correspondiente.
 2. El material de cada Grupo Activo: Lo gestiona cada Grupo Activo. Se recomienda, pero no es obligatorio, seguir la metodología propuesta para el material común.
