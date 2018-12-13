@@ -7,3 +7,4 @@
 * [Método de votación](metodo_de_votacion.md)
 * [Asuntos legales](asuntos_legales.md)
 * [Llaves](llaves.md)
+* [Inventario](inventario.md)

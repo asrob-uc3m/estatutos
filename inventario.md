@@ -1,0 +1,3 @@
+# Inventario
+
+1. El Presidente convocará una "Comisión de Limpieza" por año, entre los meses de Octurbe y Diciembre incluidos. La fecha y hora exacta se seleccionará vía Doodle, donde gana el voto mayoritario. Esta Comisión se compone de todas las personas que estén físicamente presentes en la fecha y hora ganadora, sin límite de número por Grupo Activo, y como única condición ser Miembros Activos.
