@@ -1,4 +1,4 @@
-# administración del grupo de Telegram
+# Administración del grupo de Telegram
 
 Gestión de administradores del grupo de Telegram ASROB: Organización Horizontal (como Valve).
 
