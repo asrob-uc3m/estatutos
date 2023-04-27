@@ -1,13 +1,14 @@
 # Puestos de Responsabilidad
 
+* Se revisarán todos los Puestos de Responsabilidad de forma anual. Durante el procedimiento, se omiten de forma automática a quienes no sean miembros activos. 
+
 ## Junta Directiva
 
 * Es posible delegar las tareas en otros miembros de la asociación de manera puntual.
-* Se revisará la composición de la Junta Directiva de forma anual
 * Los representantes de cada grupo se consideran vocales de la Junta Directiva, y deberán estar presentes en las reuniones internas como representación de sus compañeros de grupo de trabajo.
 
-
 ### Roles de cada puesto
+
 **Presidente**: Figurar como presidente en subvenciones, asistencia a reuniones en representación de la asociación, firma de reconocimiento de créditos, convocar [comisión de limpieza](inventario.md) anual.
 
 **Secretario**: Figurar como secretario en subvenciones, asistencia a reuniones en representación de la asociación, control del inventario.
